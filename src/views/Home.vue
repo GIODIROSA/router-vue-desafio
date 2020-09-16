@@ -4,14 +4,12 @@
      
       <div class="banner"></div>
       <div class="titleSectionAuto">
-      <h5 class="subtituloTitle">Auto</h5>
+      <h5 class="subtituloTitle">AUTO</h5>
       <h1><span class="fragmentoTitle">YOUR CAR A</span> <br> TRUE CUSTOM LOOK!</h1>
       <h5>easy wheel & tire finder</h5>
       </div>
     </section>
-    <h1>hola a todos</h1>
-    <!-- <img alt="Vue logo" src="../assets/img/auto.jpg"> -->
-    <h1>Hola desde PORTADA</h1>
+
    
   </div>
 </template>

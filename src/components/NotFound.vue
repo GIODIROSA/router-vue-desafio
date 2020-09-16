@@ -1,6 +1,7 @@
 <template>
   <div class="avisoDeError">
-      ESTAS DEMASIADO DROGADO
+     <h1 class="textoError">Todo esta perdido</h1>
+      <router-link class="linkretornohome" to="/">Haga click aquí para volver al inicio</router-link>
   </div>
 </template>
 
@@ -13,6 +14,14 @@ export default {
 <style scoped>
 .avisoDeError{
     font-size: 150px;
+    text-align: center;
+}
+.textoError{
+  padding: 50px 0px;
+}
+
+.linkretornohome{
+  font-size: 20px;
 }
 
 
